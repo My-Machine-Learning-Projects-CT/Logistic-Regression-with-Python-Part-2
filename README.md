@@ -4,6 +4,7 @@
 Analyse advertising data set, indicating whether or not a particular internet user clicked on an Advertisement.predict whether or not they will click on an ad based off the features of that user
 
 
+
 ![image](https://user-images.githubusercontent.com/48589838/77819233-3cf6cc80-70ff-11ea-8da3-b3e41dbe2b79.png)
 
 
